@@ -59,34 +59,8 @@ I'm a passionate Full-Stack Developer with experience creating modern, responsiv
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jeffkaberagithara-guru&show_icons=true&count_private=true&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffkaberagithara-guru&layout=compact&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.github.com/jeffkaberagithara" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:jeffkaberagithara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-![I am software developer](https://github.com/vagava/vagava/blob/main/EncabezadoTechnology.jpg)
+![I am junior software developer](https://github.com/vagava/vagava/blob/main/EncabezadoTechnology.jpg)
 
 ## 💝 Support My Work
 
@@ -97,16 +71,10 @@ If you appreciate my work, consider supporting me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jeffkaberagithara)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/jeffkaberagithara)
 
-</div>
 
----
 
-<div align="center">
-
-### 💻 "Code is poetry, and every line tells a story."
+### 💻 "Trying to learn some new stuff👍."
 
 ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
 
-![Visitors](https://komarev.com/ghpvc/?username=jeffkaberagithara&color=orange&style=flat-square)
 
-</div>
