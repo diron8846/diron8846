@@ -6,7 +6,7 @@
 <!-- 🐙 PROFESSIONAL GITHUB IDENTIFIER — pulsing brand-red halo + Invertocat -->
 <p align="center">
   <a href="https://github.com/diron8846" aria-label="GitHub profile">
-    <img src="./assets/github-icon.svg" width="200" height="200" alt="GitHub @diron8846 — color-pulsing brand identifier" />
+    <img src="./assets/github-icon.svg" width="200" height="200" alt="GitHub @diron — color-pulsing brand identifier" />
   </a>
 </p>
 
