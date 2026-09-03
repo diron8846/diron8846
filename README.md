@@ -1,11 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+  Dairon)](https://git.io/typing-svg)
-
-
-
-
-#  !
-
-### Full-Stack Developer and Creative Technologist
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Berlin+Sans+FB+Demi&weight=900&size=16&pause=1008&color=0636F7&background=41D01600&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+Dairon;+Full-Stack+Developer+and+Creative+Technologist)](https://git.io/typing-svg)
 
 I'm a passionate Full-Stack Developer with experience creating modern, responsive, and user-centered web applications. I enjoy transforming ideas into functional digital products using powerful frontend tools like React, TypeScript, and Tailwind, and building efficient backend APIs with Express, FastAPI, and MongoDB. I combine development skills with UI/UX design knowledge to deliver clean, intuitive interfaces.
 
